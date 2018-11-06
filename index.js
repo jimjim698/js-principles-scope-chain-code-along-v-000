@@ -1,7 +1,7 @@
 /* Your code goes here */
 var customerName = 'bob'
 
-function upperCaseName(){
+function upperCaseCustomerName(){
   customerName = customerName.upperCase()
   return customerName
 }
